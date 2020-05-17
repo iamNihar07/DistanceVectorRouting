@@ -15,3 +15,5 @@
 > javac lab2.java <br>
 > java lab2 <br>
 > Pick the file using file chooser, type 1 or 2 to select the node, and view the results in GUI
+
+#### Submitted for Lab 2 assignment, CSE 4344 coursework at the University of Texas at Arlington. Read "Lab 2 task.pdf" for more details
