@@ -13,5 +13,5 @@
 ## Execution Steps
 
 > javac lab2.java <br>
-> java lab2
+> java lab2 <br>
 > Pick the file using file chooser, type 1 or 2 to select the node, and view the results in GUI
