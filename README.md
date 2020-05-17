@@ -1,5 +1,5 @@
 # Distance Vector Routing
--Implements a simulation of Distance Vector routing given an initial network topology information containing link costs
+-Implements a simulation of Distance Vector routing given an initial network topology information containing link costs <br>
 -Returns the lowest cost possible link between x node to y node
 
 ## Functions
